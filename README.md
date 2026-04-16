@@ -18,9 +18,11 @@ I also continuously improve my skills through practical projects, corporate expe
   <a href="https://github.com/kevinthiagoo">
     <img src="https://img.shields.io/badge/GitHub-kevinthiagoo-181717?style=for-the-badge&logo=github" />
   </a>
+  
   <a href="https://www.instagram.com/kevinthh_085/">
     <img src="https://img.shields.io/badge/Instagram-@kevinthh_085-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://www.linkedin.com/in/kevin-thiago/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
